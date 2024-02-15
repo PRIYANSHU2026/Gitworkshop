@@ -1,2 +1,2 @@
-# Gitworkshop
-Demo
+Hello bubby this my first repo 
+
